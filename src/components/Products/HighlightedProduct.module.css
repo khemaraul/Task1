@@ -1,0 +1,48 @@
+.product {
+  background-color: #162b2b;
+  color: white;
+  border-radius: 6px;
+  padding: 3rem;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.product p {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.product figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #a1e0e0;
+}
+
+.product h2 {
+  font-size: 1.5rem;
+  color: #a1e0e0;
+  text-align: center;
+}
+
+.product img{
+  width: 200px;
+  height: 200px;
+}
+
+.product button {
+  background-color: transparent;
+  border-color: #1ad1b9;
+  color: #1ad1b9;
+  margin-left: 155px;
+}
+
+.product button:hover,
+.product button:active {
+  color: white;
+}
+
+.product button span {
+  margin: 0 0.5rem;
+}
